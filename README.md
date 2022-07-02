@@ -13,6 +13,8 @@ Hosted link :  https://issue-trackerapp.herokuapp.com/
    
    ![Screenshot (870)](https://user-images.githubusercontent.com/53449205/176993104-917ecb99-69ab-41e0-b3f5-4b5d2c47ef5c.png)
    
+   ![Screenshot (871)](https://user-images.githubusercontent.com/53449205/176993145-caca8a29-b94f-41cc-ba13-e1af1bd69ea3.png)
+   
 
 ## Features:
    
