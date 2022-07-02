@@ -1,6 +1,6 @@
 # Issue-Tracker
 
-A web based App to tack the issues in project.
+A web based App to track the issues in project.
 Hosted link :  https://issue-trackerapp.herokuapp.com/
 
 
