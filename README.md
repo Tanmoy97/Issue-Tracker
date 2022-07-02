@@ -10,6 +10,9 @@ Hosted link :  https://issue-trackerapp.herokuapp.com/
    3. MongoDB
    4. BootStrap
    
+   
+   ![Screenshot (870)](https://user-images.githubusercontent.com/53449205/176993104-917ecb99-69ab-41e0-b3f5-4b5d2c47ef5c.png)
+   
 
 ## Features:
    
